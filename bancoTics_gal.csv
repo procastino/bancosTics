@@ -1,8 +1,8 @@
 question,image,choice1,choice2,choice3,choice4,block
-Que saída dará o seguinte programa?,images/variableStringPrint.png,Federico,'Federico',nome,erro,python
-Que saída dará o seguinte programa?,images/variablePrintLiteral.png,nome,'nome',Eduvigis,'Eduvigis',python
-Que saída dará o seguinte programa?,images/variableStringPrintTricky.png,verde,nome,erro,'verde',python
-Que saída dará o seguinte programa?,images/twoVariablesStringPrint.png,verde,Tucho,nome,erro,python
+Que saída dará o programa?,images/variableStringPrint.png,Federico,'Federico',nome,erro,python
+Que saída dará o programa?,images/variablePrintLiteral.png,nome,'nome',Eduvigis,'Eduvigis',python
+Que saída dará o programa?,images/variableStringPrintTricky.png,verde,nome,erro,'verde',python
+Que saída dará o programa?,images/twoVariablesStringPrint.png,verde,Tucho,nome,erro,python
 O usuario introduce 'zorza' cando o programa lle pregunta. Cal será a saída?,images/printInputPrint.png,Que rica a zorza,Que rica a comida,zorza,Que rica a + zorza,python
 O usuario introduce 'zorza' cando o programa lle pregunta. Cal será a saída?,images/printInputVariableChange.png,zorza,callos,comida,input(),python
 O usuario introduce 'zorza' cando o programa lle pregunta. Cal será a saída?,images/printInputBadVariable.png,erro,zorza,comida,favorita,python
