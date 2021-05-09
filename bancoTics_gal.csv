@@ -9,3 +9,39 @@ O usuario introduce 'zorza' cando o programa lle pregunta. Cal será a saída?,i
 O usuario introduce 'zorza' cando o programa lle pregunta. Cal será a saída?,images/printInputPrintLiteral.png,Que rica a comida,Que rica a zorza,Que rica a + comida,erro,python
 O usuario introduce 'Camaro' e 'Dourado'. Cal será a saída?,images/printInputDouble.png,Aquí tes o teu CamaroDourado,Aquí tes o teu Camaro Dourado,Aquí tes o teu Dourado Camaro,Aquí tes o teu Camaro Camaro,python
 O usuario introduce 'Cangreburger' e 'mastuerza'. Cal será a saída?,images/printInputDoubleBad.png,erro,Aquí tes o teu Cangreburger con mastuerza,Aquí tes o teu mastuerza con Cangreburger,Aquí tes o teu Menu con salsa,python
+Cando se creou a rede precursora internet?,,A comezos dos 1970,A comezo dos 1960,A comezo dos 1980,A comezo dos 1990,internet e redes
+Cando dicimos que se creou a World Wide Web?,,1990,1970,1980,2000,internet e redes
+Que era ARPANET?,,"Un ""experimento"" de comunicación previo á internet.",Un departamento do ministerio de defensa americano.,Un arma segreda da CIA,A empresa que inventou internet,internet e redes
+Cal é falsa para unha rede distribuída?,,Todas as comunicacións pasan por un nodo central ou principal,Sería máis fiable que unha centralizada en caso de fallos,A información ten varios camiños para ir dun nodo a outro,Todos os nodos se conectan con máis dun nodo,internet e redes
+Como lle chamarías a unha rede que non ten nodos principais polos que pasa toda a información?,,Distribuída,Xerarquizada,Centralizada,Non estruturada,
+"Cal é falsa, se falamos do control da internet?",,Bill Gates é o principal responsable,Todo o mundo está a cargo,Ninguén está a cargo,Non hai un control centralizado,internet e redes
+Cal é falsa?,,A ISP (Internet Service Provider) dirixe e coordina a estrutura de internet.,Internet é unha rede na que hai distintas subredes,Internet se estrutura con distintos proveedores de servizos.,A idea base de Internet é que calquera dispositivo se poida conectar con calquera outro.,internet e redes
+Cal é certa?,,"A Internet ten similitudes co servizo postal, pero envíando información binaria",A Internet ten os mesmos elementos que o servizo postal,A Internet é como un servizo postal por ordenador,A estrutura do funcionamento da Internet baseouse no servizo postal,internet e redes
+Cal é falsa?,,"Un bit ""positivo"" é un 1 e o ""negativo"" é o 0",Un bit é a unidade mínima de información,"Un bit soe entenderse como un par de opostos (si/non, verdadeiro/falso, on/off...)","Un bit en informática soe asimilarse ás cifras binarias ""1"" e ""0""",internet e redes
+Cal é falsa?,,Un MegaByte son 1 000 000 de ceros e uns,Un Byte son 8 ceros e uns,Un KiloByte son uns 1 000 (1 024) bytes,Un MegaByte son uns 1 000 (1 024) KiloBytes,internet e redes
+Cal destes dispositivos de comunicación NON está baseado en transmisión de información binaria?,,O teléfono,O telégrafo,A escritura Braille,O reflector de sinais,internet e redes
+"Como nos pode ""axudar"" un reloxo para transmitir información binaria?",,Dándonos unha referencia temporal para coordinar a emisión e recepción de bits.,Permítenos envíar os bits máis rápido,Serve para que o emisor poida saber cantos ceros ou uns ten que envíar nunha determinada mensaxe,Permite que o receptor e o emisor se conecten no mesmo intre á canle de transmisión de información,internet e redes
+"Que é o ""ancho de banda""?",,A capacidade máxima de transmisión que se pode acadar nunha conexión,A velocidade á que me baixo algo da Internet,A velocidade á que podo subir algo á Internet,A cantidade de información que está a transmitirse pola rede nun intre determinado,internet e redes
+"Que é o ""bitrate""?",,Os bits que poden ser transmitidos nun tempo determinado.,A velocidade á que se transmite un bit nunha rede,A cantidade de bits que chegan a un receptor nun tempo determinado,O ratio de bits máximo para o que se deseña un sistema de transmisión de información.,internet e redes
+Que é a latencia?,,O tempo que lle leva chegar a un bit dun dispositivo a outro nunha rede,"A cantidade de bits que se ""perden"" polo camiño nunha transmisión de información",A frecuencia coa que é emitido ou recibido un bit por calquera dispositivo da rede,Os bits que poden ser transmitidos nun tempo determinado,internet e redes
+Cal sería unha velocidade de transmisión normal que nos podemos atopar hoxe en día nunha rede doméstica?,,8 000 000 de bits por segundo,8 000 000 de bits por minuto,80 000 bits por segundo,8 000 000 de MB por segundo,internet e redes
+Cal é un gran inconvinte da transmisión de datos vía cable ethernet?,,A perda de sinal para distancias grandes,A súa complexidade técnica.,O ancho de banda,A dificultade para a súa implantación a nivel doméstico,internet e redes
+Cal non é unha ventaxa da fibra óptica?,,É de baixo custo,Permite altas velocidades de transmisión,Transmite a longas distancias sen perdas,Pódese instalar nos fondos mariños,internet e redes
+Cal é certa para o wifi?,,Consiste na transmisión de datos por radio,É a única tecnoloxía que nos dá acceso a internet sen ter que depender dos cables,"Se non hai wifi, non hai conexión a Internet",Require de satélites e estacións repetidoras terrestres para o seu funcionamento.,internet e redes
+Cal destes non é un medio habitualmente empregado para transmitir información entre computadoras?,,Ondas de vibración do ar,A luz,Ondas de radio,Sinais eléctricos,internet e redes
+Que viaxa pola fibra óptica?,,Luz,Electricidade,Ceros e uns,Ondas,internet e redes
+Como se adoita facer a transmisión de bits entre computadoras?,,En serie,En paralelo,En sincronía,En rede,internet e redes
+"Nunha comunicación en serie, que sinal é preciso, ademais dos datos?",,Un sinal de reloxo,Un sinal de paralelo,Un sinal de IP,Un sinal eléctrico,internet e redes
+Que é un ISP?,,Un provedor de servizos de internet,Un procesador de sinais de internet,Un protocolo de sincronización de información,Un prefixo de envío de imaxes,internet e redes
+Como se chaman as empresas coas que contratamos o noso acceso a internet?,,ISP's,Clientes,IP's,Servidores,
+Cal destes non é un ISP?,,Android,Vodafone,Movistar,R,internet e redes
+"Como se chaman os servidores que se encargan de ""traducir"" os nomes das web a unha IP?",,DNS,ISP,TCP,SND,
+Cal pode ser unha IP?,,10.52.176.51,10.256.176.1,10.52.176,10.56.66.128.22,
+De que se encarga o protocolo TCP?,,De dividir os paquetes de información e asignarlles unha identificación para poder ser reconstruídos,De otorgar a cada equipo que se conecta a internet un número de identificación único,De traducir os nomes das webs a un número (IP),De establecer a conexión co servidor para intercambiar información con el,
+"Cal é o protocolo que se encarga de ""trocear"" e ordear a información que envíamos?",,TCP,IP,DNS,CCCP,
+Con que se corresponden as iniciais de HTML?,,Hypertext Markup Language,Host Texting Model Language,Hybrid Terminal Mask Link,Home Transfer Mixed Lever,
+Que é o HTTPS?,,A linguaxe na que falan clientes e servidores,A linguaxe que lle di a un navegador como se debe de amosar unha páxina,A linguaxe na que están programados os servidores,Un protocolo seguro para a transferencia de ficheiros entre clientes,
+Cales son os dispositivos que se encargan de redireccionar os paquetes de información por unha rede?,,Os routers,Os servidores,As IP,Os ISP,
+Cal é a conexión máis habitual por cable?,,Ethernet,Internet,Intranet,Arpanet,
+Cal é a conexión máis rápida?,,Fibra óptica,Cable,Wifi,4G,
+"Cal é falsa, nesta situación?",images/internet_tuit_DNS.png,Belén non está conectada a internet,Belén non pode entrar en Github,O servidor DNS de Movistar pode non funcionar ben,Belén pensa que o servidor de Github pode estar a funcionar mal,
