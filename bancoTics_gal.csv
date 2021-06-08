@@ -13,7 +13,7 @@ Cando se creou a rede precursora internet?,,A comezos dos 1970,A comezo dos 1960
 Cando dicimos que se creou a World Wide Web?,,1990,1970,1980,2000,internet e redes
 Que era ARPANET?,,"Un ""experimento"" de comunicación previo á internet.",Un departamento do ministerio de defensa americano.,Un arma segreda da CIA,A empresa que inventou internet,internet e redes
 Cal é falsa para unha rede distribuída?,,Todas as comunicacións pasan por un nodo central ou principal,Sería máis fiable que unha centralizada en caso de fallos,A información ten varios camiños para ir dun nodo a outro,Todos os nodos se conectan con máis dun nodo,internet e redes
-Como lle chamarías a unha rede que non ten nodos principais polos que pasa toda a información?,,Distribuída,Xerarquizada,Centralizada,Non estruturada,
+Como lle chamarías a unha rede que non ten nodos principais polos que pasa toda a información?,,Distribuída,Xerarquizada,Centralizada,Non estruturada,internet e redes
 "Cal é falsa, se falamos do control da internet?",,Bill Gates é o principal responsable,Todo o mundo está a cargo,Ninguén está a cargo,Non hai un control centralizado,internet e redes
 Cal é falsa?,,A ISP (Internet Service Provider) dirixe e coordina a estrutura de internet.,Internet é unha rede na que hai distintas subredes,Internet se estrutura con distintos proveedores de servizos.,A idea base de Internet é que calquera dispositivo se poida conectar con calquera outro.,internet e redes
 Cal é certa?,,"A Internet ten similitudes co servizo postal, pero envíando información binaria",A Internet ten os mesmos elementos que o servizo postal,A Internet é como un servizo postal por ordenador,A estrutura do funcionamento da Internet baseouse no servizo postal,internet e redes
@@ -24,24 +24,38 @@ Cal destes dispositivos de comunicación NON está baseado en transmisión de in
 "Que é o ""ancho de banda""?",,A capacidade máxima de transmisión que se pode acadar nunha conexión,A velocidade á que me baixo algo da Internet,A velocidade á que podo subir algo á Internet,A cantidade de información que está a transmitirse pola rede nun intre determinado,internet e redes
 "Que é o ""bitrate""?",,Os bits que poden ser transmitidos nun tempo determinado.,A velocidade á que se transmite un bit nunha rede,A cantidade de bits que chegan a un receptor nun tempo determinado,O ratio de bits máximo para o que se deseña un sistema de transmisión de información.,internet e redes
 Que é a latencia?,,O tempo que lle leva chegar a un bit dun dispositivo a outro nunha rede,"A cantidade de bits que se ""perden"" polo camiño nunha transmisión de información",A frecuencia coa que é emitido ou recibido un bit por calquera dispositivo da rede,Os bits que poden ser transmitidos nun tempo determinado,internet e redes
+"A nosa conexión ten moito ancho de banda e, ao conectarse a un servidor, tamén ten moita latencia. Cal é certa?",,Poderiamos descargar a gran velocidade pero non vai ser tanta por culpa da latencia,"Teremos máis velocidade da que correspondería ao ancho de banda, grazas á latencia","Teremos a velocidade que corresponde ao ancho de banda, a latencia non inflúe.",Non se poderá establecer a conexión se temos moita latencia.,internet e redes
 Cal sería unha velocidade de transmisión normal que nos podemos atopar hoxe en día nunha rede doméstica?,,8 000 000 de bits por segundo,8 000 000 de bits por minuto,80 000 bits por segundo,8 000 000 de MB por segundo,internet e redes
 Cal é un gran inconvinte da transmisión de datos vía cable ethernet?,,A perda de sinal para distancias grandes,A súa complexidade técnica.,O ancho de banda,A dificultade para a súa implantación a nivel doméstico,internet e redes
 Cal non é unha ventaxa da fibra óptica?,,É de baixo custo,Permite altas velocidades de transmisión,Transmite a longas distancias sen perdas,Pódese instalar nos fondos mariños,internet e redes
-Cal é certa para o wifi?,,Consiste na transmisión de datos por radio,É a única tecnoloxía que nos dá acceso a internet sen ter que depender dos cables,"Se non hai wifi, non hai conexión a Internet",Require de satélites e estacións repetidoras terrestres para o seu funcionamento.,internet e redes
+Cal é certa para o wifi?,,A transmisión de datos faise por ondas de radio,É a única tecnoloxía que nos dá acceso a internet sen ter que depender dos cables,"Se non hai wifi, non hai conexión a Internet",Require de satélites e estacións repetidoras terrestres para o seu funcionamento.,internet e redes
 Cal destes non é un medio habitualmente empregado para transmitir información entre computadoras?,,Ondas de vibración do ar,A luz,Ondas de radio,Sinais eléctricos,internet e redes
 Que viaxa pola fibra óptica?,,Luz,Electricidade,Ceros e uns,Ondas,internet e redes
 Como se adoita facer a transmisión de bits entre computadoras?,,En serie,En paralelo,En sincronía,En rede,internet e redes
 "Nunha comunicación en serie, que sinal é preciso, ademais dos datos?",,Un sinal de reloxo,Un sinal de paralelo,Un sinal de IP,Un sinal eléctrico,internet e redes
 Que é un ISP?,,Un provedor de servizos de internet,Un procesador de sinais de internet,Un protocolo de sincronización de información,Un prefixo de envío de imaxes,internet e redes
-Como se chaman as empresas coas que contratamos o noso acceso a internet?,,ISP's,Clientes,IP's,Servidores,
+Como se chaman as empresas coas que contratamos o noso acceso a internet?,,ISP's,Clientes,IP's,Servidores,internet e redes
 Cal destes non é un ISP?,,Android,Vodafone,Movistar,R,internet e redes
-"Como se chaman os servidores que se encargan de ""traducir"" os nomes das web a unha IP?",,DNS,ISP,TCP,SND,
-Cal pode ser unha IP?,,10.52.176.51,10.256.176.1,10.52.176,10.56.66.128.22,
-De que se encarga o protocolo TCP?,,De dividir os paquetes de información e asignarlles unha identificación para poder ser reconstruídos,De otorgar a cada equipo que se conecta a internet un número de identificación único,De traducir os nomes das webs a un número (IP),De establecer a conexión co servidor para intercambiar información con el,
-"Cal é o protocolo que se encarga de ""trocear"" e ordear a información que envíamos?",,TCP,IP,DNS,CCCP,
-Con que se corresponden as iniciais de HTML?,,Hypertext Markup Language,Host Texting Model Language,Hybrid Terminal Mask Link,Home Transfer Mixed Lever,
-Que é o HTTPS?,,A linguaxe na que falan clientes e servidores,A linguaxe que lle di a un navegador como se debe de amosar unha páxina,A linguaxe na que están programados os servidores,Un protocolo seguro para a transferencia de ficheiros entre clientes,
-Cales son os dispositivos que se encargan de redireccionar os paquetes de información por unha rede?,,Os routers,Os servidores,As IP,Os ISP,
-Cal é a conexión máis habitual por cable?,,Ethernet,Internet,Intranet,Arpanet,
-Cal é a conexión máis rápida?,,Fibra óptica,Cable,Wifi,4G,
-"Cal é falsa, nesta situación?",images/internet_tuit_DNS.png,Belén non está conectada a internet,Belén non pode entrar en Github,O servidor DNS de Movistar pode non funcionar ben,Belén pensa que o servidor de Github pode estar a funcionar mal,
+"Como se chaman os servidores que se encargan de ""traducir"" os nomes das web a unha IP?",,DNS,ISP,TCP,SND,internet e redes
+Cal pode ser unha IP?,,10.52.176.51,10.256.176.1,10.52.176,10.56.66.128.22,internet e redes
+Cal NON pode ser unha IP?,,"10.52.268,51",10.52.1.1,10.255.255.255,192.168.0.10,internet e redes
+De que se encarga o protocolo TCP?,,De dividir os paquetes de información e asignarlles unha identificación para poder ser reconstruídos,De otorgar a cada equipo que se conecta a internet un número de identificación único,De traducir os nomes das webs a un número (IP),De establecer a conexión co servidor para intercambiar información con el,internet e redes
+"Cal é o protocolo que se encarga de ""trocear"" e ordear a información que envíamos?",,TCP,IP,DNS,CCCP,internet e redes
+"Cal é o protocolo que se encarga de ""trocear"" e ordear a información que envíamos?",,TCP,ISP,IP,HTTP,internet e redes
+Con que se corresponden as iniciais de HTML?,,Hypertext Markup Language,Host Texting Model Language,Hybrid Terminal Mask Link,Home Transfer Mixed Lever,internet e redes
+Que é o HTTPS?,,A linguaxe na que falan clientes e servidores,A linguaxe que lle di a un navegador como se debe de amosar unha páxina,A linguaxe na que están programados os servidores,Un protocolo seguro para a transferencia de ficheiros entre clientes,internet e redes
+Cales son os dispositivos que se encargan de redireccionar os paquetes de información por unha rede?,,Os routers,Os servidores,As IP,Os ISP,internet e redes
+Cal é a conexión máis habitual por cable?,,Ethernet,Internet,Intranet,Arpanet,internet e redes
+Cal é a conexión máis rápida?,,Fibra óptica,Cable,Wifi,4G,internet e redes
+"Cal é falsa, nesta situación?",images/internet_tuit_DNS.png,Belén non está conectada a internet,Belén non pode entrar en Github,O servidor DNS da conexión de Belén pode non funcionar ben,Belén pensa que o servidor de Github pode estar a funcionar mal,internet e redes
+De que son as iniciais de URL?,,Uniform Resource Location,Universal Resource Location,Uniform Resource Link,Uniform Router Location,internet e redes
+Como se lles chama as URL informalmente?,,Enderezo web,Ligazón,Navegador,DNS,internet e redes
+"Quero facer unha web que teña a URL ""tucho.gal"". Cal non é necesario?",,Comprar a licenza para un software de deseño web,Comprobar a dispoñibilidade do dominio,Rexistrar ese dominio,Contratar un aloxamento nun servidor,
+"Contratei o internet con Pichifone, paréceme o ______ máis convinte.",,ISP,Servidor,Sistema Operativo,Protocolo,internet e redes
+"Hoxe non podo entrar na aula virtual, o __________ debe de estar caído.",,Servidor,Cliente,HTML,URL,internet e redes
+Cal é falsa?,,Os servidores non teñen que estar na rede,Un ordenador pode estar en rede pero non en internet,Internet é unha rede,Internet basease no funcionamento por clientes e servidores,internet e redes
+Cal etiqueta se corresponde cun parágrafo en HTML?,,<p>,<h1>,<a>,<pr>,internet e redes
+Cal etiqueta se corresponde cun título de primeiro nivel en HTML?,,<h1>,<t1>,<p1>,<head>,internet e redes
+"<img _____ = ""images/foto.jpg"">",,src,scr,href,alt,internet e redes
+Cal será a etiqueta dunha ligazón?,,<a>,<p>,<br>,<l>,internet e redes
+"Como fago que a palabra ""buscador"" apareza na web como unha ligazón que me leva a google.com?",,"<a href=""google.com"">buscador</a>","<a href= google.com> ""buscador""</a>","<a><href=""google.com"">buscador</a>","<a href=""buscador"">google.com</a>",internet e redes
